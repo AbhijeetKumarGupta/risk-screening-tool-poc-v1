@@ -1,6 +1,6 @@
 # Heart & Stroke Survey Platform
 
-A modern, interactive survey web application built for Heart & Stroke, powered by Next.js and Contentful CMS. This platform enables dynamic survey creation and management through a headless CMS, providing a seamless user experience with server-side rendering and incremental static regeneration.
+A modern, interactive survey web application built as a POC, powered by Next.js and Contentful CMS. This platform enables dynamic survey creation and management through a headless CMS, providing a seamless user experience with server-side rendering and incremental static regeneration.
 
 ## 🚀 Features
 
